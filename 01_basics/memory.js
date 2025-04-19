@@ -8,3 +8,8 @@ let b = a;
 b ="Ashi";
 console.log(a);
 console.log(b);
+let userone ={
+    name="Saksham",
+    class = "btech"
+}
+//userone will have reference 
