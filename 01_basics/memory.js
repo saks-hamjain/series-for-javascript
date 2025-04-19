@@ -10,6 +10,6 @@ console.log(a);
 console.log(b);
 let userone ={
     name="Saksham",
-    class = "btech"
+    class="btech"
 }
 //userone will have reference 
