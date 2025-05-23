@@ -38,10 +38,15 @@ Course Structure
 The series is divided into several modules, each focusing on a specific aspect of JavaScript:
 
 01_basics: Introduction to JavaScript, variables, and data types.
+
 02_basics: Functions, scope, and error handling.
+
 03_basics: Objects and arrays, including methods and properties.
+
 04_controlflow: Conditional statements and logical operators.
+
 05_iterations: Loops and iteration techniques.
+
 Each module is designed to be self-contained, allowing learners to progress at their own pace.
 
 Contributing
