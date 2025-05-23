@@ -1,0 +1,7 @@
+javascript  Execution context 
+first is global execution context
+gec is hold by this keyword
+
+second is function execution context
+
+eval ececution context
